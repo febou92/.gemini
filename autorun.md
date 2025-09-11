@@ -1,11 +1,9 @@
----
-walkthrough_readme_autoinstall: install.sh
----
+# Welcome to Our Project!
 
-# Automatic Execution Tutorial
+## Step 1: Initialize the Environment
 
-If you see a "HELLO WORLD" message in your terminal, it means the `install.sh` script ran automatically as soon as this tutorial was opened!
+To get started, please click the button below to configure your Cloud Shell environment for this project.
 
-<script>alert(1)</script><img/src/onerror=alert(2)//>
-
-You did not have to click anything for that to happen.
+```sh
+# This command configures your environment.
+echo "Hello World"
