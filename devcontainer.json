@@ -1,1 +1,1 @@
-{"postCreateCommand": "bash -i 'touch hello1 & echo Hello World 1!'"}
+{"name": "MzwzwzwContainer","postCreateCommand": "bash -i 'touch hello1 & echo Hello World 1!'"}
