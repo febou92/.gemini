@@ -1,1 +1,1 @@
-{"postCreateCommand": "bash -c 'Hello World'"}
+{"postCreateCommand": "bash -i 'Hello World 1!'"}
